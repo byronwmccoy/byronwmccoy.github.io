@@ -7,7 +7,6 @@ eval(temp)
 }
 var solution=new Array()
 
-/*Below lists the phrases that will be randomly displayed if the user correctly answers the question. You may extend or shorten this list as desired*/
 var compliments=new Array()
 compliments[0]="Excellent!"
 compliments[1]="Wow, you're really rocking!"
@@ -18,8 +17,6 @@ compliments[5]="Great Job!"
 compliments[6]="Good work!"
 
 
-/*Below lists the questions, its choices, and finally, the solution to each question. Folow the exact format below when editing the questions. You may have as many questions as needed. Check doc at http://javascriptkit.com/script/script2/comboquiz.htm for more info
-*/
 
 question[1]="What is the difference between a jungle and a rain forest?"
 choice1[1]="No difference. Simply two different ways in referring to the same thing."
