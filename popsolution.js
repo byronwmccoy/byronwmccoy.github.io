@@ -30,7 +30,7 @@ choice2[2]="Buddhism"
 choice2[3]="Hinduism"
 choice2[4]="Muslim"
 
-question[3]="Which city ranks as the world\'s most populous city?"
+question[3]="Which city ranks as the world's most populous city?"
 choice3[1]="New York (US)"
 choice3[2]="Mexico City (Mexico)"
 choice3[3]="Tokyo (Japan)"
